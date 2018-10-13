@@ -38,4 +38,15 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_b8ea8d76-00c5-4dd3-90e4-6efb8c97cfb6.xml#b8ea8d76-00c5-4dd3-90e4-6efb8c97cfb6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e082b0b5-3c55-48e6-9e81-961e83fa2aab"
+      textAlignment="1"
+      content="A view of an application.">
+    <bounds
+        x="13"
+        y="12"
+        width="168"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>
