@@ -430,4 +430,14 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_bbb3e28b-c5e4-4079-a466-cd702bdb4d8b.xml#bbb3e28b-c5e4-4079-a466-cd702bdb4d8b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ca142e70-b33d-4665-926e-bda9a896136f"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="234"
+        width="120"
+        height="56"/>
+  </children>
 </archimate:ArchimateDiagramModel>
