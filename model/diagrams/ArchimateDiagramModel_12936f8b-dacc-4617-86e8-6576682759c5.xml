@@ -55,12 +55,12 @@
       content="A view of an application.">
     <features
         name="labelExpression"
-        value="${content}&#xA;&#xA;${property:Last commited}"/>
+        value="${content}&#xA;&#xA;$view{property:Last commited}"/>
     <bounds
         x="12"
         y="12"
-        width="168"
-        height="49"/>
+        width="181"
+        height="61"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
