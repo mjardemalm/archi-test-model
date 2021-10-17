@@ -1,4 +1,11 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Driver"
-    id="0d0c8d0e-e5fc-4dd1-bea9-8177510d054d"/>
+    id="0d0c8d0e-e5fc-4dd1-bea9-8177510d054d">
+  <properties
+      key="Last commited"
+      value="2018-11-07"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Driver>

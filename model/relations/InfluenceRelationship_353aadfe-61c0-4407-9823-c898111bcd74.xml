@@ -3,6 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="353aadfe-61c0-4407-9823-c898111bcd74"
     strength="++">
+  <properties
+      key="Last commited"
+      value="2018-10-24"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_91731d49-a092-4393-b2c7-46bb00083bce.xml#91731d49-a092-4393-b2c7-46bb00083bce"/>

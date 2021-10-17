@@ -1,4 +1,11 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Device"
-    id="83cf3d1d-bf36-4de3-b96a-65ee0617eded"/>
+    id="83cf3d1d-bf36-4de3-b96a-65ee0617eded">
+  <properties
+      key="Last commited"
+      value="2018-10-24"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Device>

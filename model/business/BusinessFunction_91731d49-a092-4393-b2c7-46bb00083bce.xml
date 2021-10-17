@@ -1,4 +1,11 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Function"
-    id="91731d49-a092-4393-b2c7-46bb00083bce"/>
+    id="91731d49-a092-4393-b2c7-46bb00083bce">
+  <properties
+      key="Last commited"
+      value="2018-10-16"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:BusinessFunction>

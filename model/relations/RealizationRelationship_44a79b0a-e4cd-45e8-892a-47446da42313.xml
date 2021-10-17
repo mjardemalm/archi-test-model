@@ -2,6 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="44a79b0a-e4cd-45e8-892a-47446da42313">
+  <properties
+      key="Last commited"
+      value="2018-11-05"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
   <source
       xsi:type="archimate:Plateau"
       href="Plateau_df6c94d5-9ccc-4c14-a470-31c791fafef6.xml#df6c94d5-9ccc-4c14-a470-31c791fafef6"/>

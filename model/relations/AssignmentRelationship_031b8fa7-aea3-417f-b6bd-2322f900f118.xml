@@ -2,6 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="031b8fa7-aea3-417f-b6bd-2322f900f118">
+  <properties
+      key="Last commited"
+      value="2018-11-07"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_fddbf3a5-a842-4bc3-aadb-45389945055e.xml#fddbf3a5-a842-4bc3-aadb-45389945055e"/>

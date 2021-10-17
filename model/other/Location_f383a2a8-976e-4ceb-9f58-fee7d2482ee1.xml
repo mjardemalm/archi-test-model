@@ -1,4 +1,11 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sweden"
-    id="f383a2a8-976e-4ceb-9f58-fee7d2482ee1"/>
+    id="f383a2a8-976e-4ceb-9f58-fee7d2482ee1">
+  <properties
+      key="Last commited"
+      value="2018-10-24"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Location>

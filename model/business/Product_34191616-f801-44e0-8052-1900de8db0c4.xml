@@ -1,4 +1,11 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product"
-    id="34191616-f801-44e0-8052-1900de8db0c4"/>
+    id="34191616-f801-44e0-8052-1900de8db0c4">
+  <properties
+      key="Last commited"
+      value="2018-11-07"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Product>

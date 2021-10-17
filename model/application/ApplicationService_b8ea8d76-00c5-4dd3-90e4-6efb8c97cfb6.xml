@@ -1,4 +1,11 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Service"
-    id="b8ea8d76-00c5-4dd3-90e4-6efb8c97cfb6"/>
+    id="b8ea8d76-00c5-4dd3-90e4-6efb8c97cfb6">
+  <properties
+      key="Last commited"
+      value="2018-10-13"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:ApplicationService>

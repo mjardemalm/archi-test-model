@@ -1,4 +1,11 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Interaction"
-    id="c5c290a2-b424-4208-9416-7d822707f5ca"/>
+    id="c5c290a2-b424-4208-9416-7d822707f5ca">
+  <properties
+      key="Last commited"
+      value="2018-11-08"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:ApplicationInteraction>

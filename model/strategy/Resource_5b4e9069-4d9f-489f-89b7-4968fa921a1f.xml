@@ -1,4 +1,11 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource"
-    id="5b4e9069-4d9f-489f-89b7-4968fa921a1f"/>
+    id="5b4e9069-4d9f-489f-89b7-4968fa921a1f">
+  <properties
+      key="Last commited"
+      value="2018-11-08"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Resource>

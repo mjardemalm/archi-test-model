@@ -1,4 +1,11 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Course of Action"
-    id="6225a3ec-b6e6-48e3-b513-227abd2f69c0"/>
+    id="6225a3ec-b6e6-48e3-b513-227abd2f69c0">
+  <properties
+      key="Last commited"
+      value="2018-11-08"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:CourseOfAction>

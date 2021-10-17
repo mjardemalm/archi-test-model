@@ -5,4 +5,10 @@
   <properties
       key="scope"
       value="local"/>
+  <properties
+      key="Last commited"
+      value="2018-11-21"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
 </archimate:BusinessRole>

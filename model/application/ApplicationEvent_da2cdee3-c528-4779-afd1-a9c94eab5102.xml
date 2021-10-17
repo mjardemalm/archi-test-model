@@ -1,4 +1,11 @@
 <archimate:ApplicationEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Event"
-    id="da2cdee3-c528-4779-afd1-a9c94eab5102"/>
+    id="da2cdee3-c528-4779-afd1-a9c94eab5102">
+  <properties
+      key="Last commited"
+      value="2018-11-08"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:ApplicationEvent>

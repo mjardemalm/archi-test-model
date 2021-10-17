@@ -1,4 +1,11 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Node"
-    id="37655988-5bca-459d-b4bc-640d8870179f"/>
+    id="37655988-5bca-459d-b4bc-640d8870179f">
+  <properties
+      key="Last commited"
+      value="2018-10-16"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Node>

@@ -1,4 +1,11 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Role"
-    id="47103dad-b3f1-4fbb-a560-1d08264c8afe"/>
+    id="47103dad-b3f1-4fbb-a560-1d08264c8afe">
+  <properties
+      key="Last commited"
+      value="2018-11-07"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:BusinessRole>

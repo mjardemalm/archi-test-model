@@ -1,4 +1,11 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Principle"
-    id="a4748e07-a90a-4f50-b521-146620e97cfa"/>
+    id="a4748e07-a90a-4f50-b521-146620e97cfa">
+  <properties
+      key="Last commited"
+      value="2018-10-24"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:Principle>
