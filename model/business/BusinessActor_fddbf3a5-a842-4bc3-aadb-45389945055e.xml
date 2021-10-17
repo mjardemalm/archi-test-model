@@ -1,4 +1,12 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Actor"
-    id="fddbf3a5-a842-4bc3-aadb-45389945055e"/>
+    id="fddbf3a5-a842-4bc3-aadb-45389945055e"
+    documentation="This is a business actor.">
+  <properties
+      key="Last commited"
+      value="2021-10-17"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+</archimate:BusinessActor>

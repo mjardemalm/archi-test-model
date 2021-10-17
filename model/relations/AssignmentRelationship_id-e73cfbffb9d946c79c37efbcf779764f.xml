@@ -1,0 +1,17 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e73cfbffb9d946c79c37efbcf779764f">
+  <properties
+      key="Last commited"
+      value="2021-10-17"/>
+  <properties
+      key="User"
+      value="mjardemalm"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_37655988-5bca-459d-b4bc-640d8870179f.xml#37655988-5bca-459d-b4bc-640d8870179f"/>
+  <target
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-0d63ee1dff4840d7a9596ea17668f763.xml#id-0d63ee1dff4840d7a9596ea17668f763"/>
+</archimate:AssignmentRelationship>

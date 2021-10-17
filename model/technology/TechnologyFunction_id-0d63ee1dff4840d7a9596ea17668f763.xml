@@ -1,12 +1,11 @@
-<archimate:Facility
+<archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facility"
-    id="7e16bac3-4ed6-4433-bb83-5e09f215c63a"
-    documentation="A note on the facility concept.">
+    name="Technology Function"
+    id="id-0d63ee1dff4840d7a9596ea17668f763">
   <properties
       key="Last commited"
       value="2021-10-17"/>
   <properties
       key="User"
       value="mjardemalm"/>
-</archimate:Facility>
+</archimate:TechnologyFunction>
